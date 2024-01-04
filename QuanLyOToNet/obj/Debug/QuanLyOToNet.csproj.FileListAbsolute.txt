@@ -1,0 +1,68 @@
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.Xe.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XeBently.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XeBugatti.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XeFerrari.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XeLexus.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XeMayBach.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XePorsche.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\bin\Debug\QuanLyOToNet.exe.config
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\bin\Debug\QuanLyOToNet.exe
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\bin\Debug\QuanLyOToNet.pdb
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.exe
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.pdb
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.HeThong.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.HoaDon.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.NhanVien.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.BaoHanh.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.KhachHang.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.NCC.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.TrangChu.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\bin\Debug\iTextSharp.LGPLv2.Core.dll
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\bin\Debug\iTextSharp.LGPLv2.Core.xml
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.QuanLyKhoXe.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.KhuyenMai.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.QuanLy.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.GiaoDienKetThuc.resources
+C:\Users\ACER\OneDrive\Documents\Công nghệ phần mềm\QuanLyOToNet\QuanLyOToNet\obj\Debug\QuanLyOToNet.GiaoDienXe.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\bin\Debug\QuanLyOToNet.exe.config
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\bin\Debug\QuanLyOToNet.exe
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\bin\Debug\QuanLyOToNet.pdb
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\bin\Debug\BouncyCastle.Crypto.dll
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\bin\Debug\iTextSharp.LGPLv2.Core.dll
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\bin\Debug\BouncyCastle.Crypto.xml
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\bin\Debug\iTextSharp.LGPLv2.Core.xml
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.csproj.AssemblyReference.cache
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.csproj.SuggestedBindingRedirects.cache
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.BaoHanh.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.GiaoDienKetThuc.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.GiaoDienXe.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.HeThong.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.HoaDon.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.KhachHang.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.KhuyenMai.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.NCC.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.NhanVien.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.Properties.Resources.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.QuanLy.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.QuanLyKhoXe.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.TrangChu.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.Xe.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XeBently.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XeBugatti.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XeFerrari.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XeLexus.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XeMayBach.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyCuaHangOTo.XePorsche.resources
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.csproj.GenerateResource.cache
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.csproj.CoreCompileInputs.cache
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.csproj.CopyComplete
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.exe
+E:\Học Kì I (2022-2023)\Đồ Án Lập Trinh .NET\QuanLyOToNet (2)\QuanLyOToNet\obj\Debug\QuanLyOToNet.pdb
